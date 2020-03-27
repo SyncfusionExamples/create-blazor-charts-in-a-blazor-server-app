@@ -9,10 +9,10 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using column_charts.Data;
-using Syncfusion.EJ2.Blazor;
+using BlazorExample.Data;
+using Syncfusion.Blazor;
 
-namespace column_charts
+namespace BlazorExample
 {
     public class Startup
     {
@@ -37,7 +37,7 @@ namespace column_charts
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             // Add your valid license key here.
-	    Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Your License Key");
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Your License Key");
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

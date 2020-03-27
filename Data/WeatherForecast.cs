@@ -1,6 +1,6 @@
 using System;
 
-namespace column_charts.Data
+namespace BlazorExample.Data
 {
     public class WeatherForecast
     {

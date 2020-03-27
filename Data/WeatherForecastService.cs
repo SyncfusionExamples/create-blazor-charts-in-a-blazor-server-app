@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace column_charts.Data
+namespace BlazorExample.Data
 {
     public class WeatherForecastService
     {
