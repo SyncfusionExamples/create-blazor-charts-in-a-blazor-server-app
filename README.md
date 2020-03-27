@@ -12,5 +12,3 @@ Make sure that you have the compatible versions of Visual Studio 2019 and .NET C
 ## How to run this application?
 To run this application, you need to first clone the `create-blazor-charts-in-a-blazor-server-app` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
 
-Navigate to `http://localhost:5000/` or `http://localhost:5001/` in the browser to view the output.
-
