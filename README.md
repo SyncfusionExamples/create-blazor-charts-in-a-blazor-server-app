@@ -1,4 +1,17 @@
+# Creating a Chart in Blazor Server App
+
 The [Blazor Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples), a well-crafted easy-to-use charting package, is used to add beautiful charts in web and mobile applications. It contains a rich gallery of 30+ charts and graphs, ranging from line to financial charts, that cater to all charting scenarios. Its high performing quality helps to render a large amount of data quickly in your user’s browser. It also comes with a lot of features such as zooming, panning, tooltip, crosshair, trackball, drill-down, and events to make the charts more interactive. 
+
+## Prequisites
+
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and Benefits
 
