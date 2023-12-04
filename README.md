@@ -50,8 +50,8 @@ Chart can be exported to PDF or as image formats such as SVG, PNG, and JPEG in c
 [Learn about more Blazor Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
 [Pricing](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
-[Documentation](https://blazor.syncfusion.com/documentation/chart/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
-[Online Examples](https://blazor.syncfusion.com/demos/chart/line?theme=bootstrap4?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
+[Documentation]( https://blazor.syncfusion.com/documentation/chart/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
+[Online Examples]( https://blazor.syncfusion.com/demos/chart/line?theme=bootstrap4?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples) <br/><br/>
 [Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-charts-github-samples)
 
